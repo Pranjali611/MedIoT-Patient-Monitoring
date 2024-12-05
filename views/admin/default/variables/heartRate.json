@@ -1,0 +1,32 @@
+[
+    {
+      "name": ["Morning Heart Rate", false],
+      "quantity": 72,
+      "date": "12 Jan 2021",
+      "progress": 75.0
+    },
+    {
+      "name": ["Afternoon Heart Rate", true],
+      "quantity": 78,
+      "date": "21 Feb 2021",
+      "progress": 80.5
+    },
+    {
+      "name": ["Evening Heart Rate", true],
+      "quantity": 75,
+      "date": "13 Mar 2021",
+      "progress": 70.0
+    },
+    {
+      "name": ["Night Heart Rate", true],
+      "quantity": 80,
+      "date": "24 Jan 2021",
+      "progress": 72.5
+    },
+    {
+      "name": ["Peak Heart Rate", false],
+      "quantity": 85,
+      "date": "24 Oct 2022",
+      "progress": 90.0
+    }
+  ]

@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Morning Blood Glucose",
+      "status": "Normal",
+      "date": "18 Apr 2022",
+      "progress": 85.0
+    },
+    {
+      "name": "Afternoon Blood Glucose",
+      "status": "High",
+      "date": "18 Apr 2022",
+      "progress": 120.0
+    },
+    {
+      "name": "Pre-Dinner Blood Glucose",
+      "status": "Normal",
+      "date": "20 May 2021",
+      "progress": 90.0
+    },
+    {
+      "name": "Post-Dinner Blood Glucose",
+      "status": "High",
+      "date": "12 Jul 2021",
+      "progress": 145.0
+    }
+  ]
